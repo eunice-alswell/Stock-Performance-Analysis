@@ -2,6 +2,12 @@
 
 This project involves extracting essential data from stock datasets and displaying it graphically. By visualizing this data, individuals can make informed decisions based on the insights gained from the graphs.
 
+## Stocks used:
+- Tesla
+- Amazon
+- AMD
+- GameStop
+
 ## Functions and Tasks:
 
 ### 1. Define a Function to Make a Graph
